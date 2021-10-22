@@ -42,3 +42,8 @@ After scraping the data, I needed to clean up some of the data. I made the follo
     * SQL
     * Excel  
 
+## Data Visualization
+After cleaning the data, I went ahead and started to analyze the data and make visualizatoions
+
+![alt text](https://github.com/jordancassalata/da_salary_proj/blob/main/avg_salary_per_state.png "Average salary per state")
+
