@@ -46,4 +46,4 @@ After scraping the data, I needed to clean up some of the data. I made the follo
 After cleaning the data, I went ahead and started to analyze the data and make visualizatoions
 
 ![alt text](https://github.com/jordancassalata/da_salary_proj/blob/main/avg_salary_per_state.png "Average salary per state")
-
+![alt text](https://github.com/jordancassalata/da_salary_proj/blob/main/jobs_per_state.png "How many jobs per state")
