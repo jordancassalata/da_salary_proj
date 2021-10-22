@@ -47,3 +47,12 @@ After cleaning the data, I went ahead and started to analyze the data and make v
 
 ![alt text](https://github.com/jordancassalata/da_salary_proj/blob/main/avg_salary_per_state.png "Average salary per state")
 ![alt text](https://github.com/jordancassalata/da_salary_proj/blob/main/jobs_per_state.png "How many jobs per state")
+
+## Conclusion
+
+*Looking at all the data we can conclude that the average salary for a data analyst is about 70k - 80k per state. 
+*The top 5 highest paying Industrys(Utilities,Airlines. Research & Development, Other Retail Stores,Staffing & Outsourcing) pay the most, with an average of 90k.
+*Learning more skills like SQL, Python can help you land better paying jobs.
+*Remote data analyst jobs are currentely the most available. 
+*New York, California, and Florida are the states looking for the most data analyst
+
